@@ -85,6 +85,7 @@ button {
   font-weight: bold;
   float: right;
   bottom: 0;
+  cursor: pointer;
 }
 button:hover {
   color: white;
